@@ -1,0 +1,9 @@
+com\example\demo\GreetingController.class
+com\example\demo\Greeting.class
+com\example\demo\ItemRepository.class
+com\example\demo\TestController.class
+com\example\demo\SpringApiRestController.class
+com\example\demo\DataLoader.class
+META-INF\spring-configuration-metadata.json
+com\example\demo\SprindRestApplication.class
+com\example\demo\Item.class

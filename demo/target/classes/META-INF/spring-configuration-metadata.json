@@ -1,0 +1,25 @@
+{
+  "groups": [
+    {
+      "name": "greeting",
+      "type": "com.example.demo.Greeting",
+      "sourceType": "com.example.demo.Greeting"
+    }
+  ],
+  "properties": [
+    {
+      "name": "greeting.id",
+      "type": "java.lang.String",
+      "sourceType": "com.example.demo.Greeting"
+    },
+    {
+      "name": "greeting.name",
+      "type": "java.lang.String",
+      "sourceType": "com.example.demo.Greeting"
+    }
+  ],
+  "hints": [],
+  "ignored": {
+    "properties": []
+  }
+}
